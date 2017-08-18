@@ -10,8 +10,6 @@ COMMENT=	Lumina desktop wallpapers/colors
 
 LICENSE=	BSD2CLAUSE
 
-RUN_DEPENDS=	qt5ct>=0:misc/qt5ct
-
 USE_QT5=	qmake_build
 USES=	qmake
 
