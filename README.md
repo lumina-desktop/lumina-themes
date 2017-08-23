@@ -1,23 +1,19 @@
 # lumina-themes
 
-The following files in the wallpapers subdirectory are under a CC0 license:
+This repository houses Lumina theme directories. The individual themes are stored in a directory with the name of the theme, as **lumina-nature** shows.
 
-bokeh.jpg
-clouds.jpg
-forest_lake.jpg
-forest_railroad.jpg
-forest_river.jpg
-lemon_water.jpg
-mountain_range.jpg
-mountain_river.jpg
-mountain_sky.jpg
-ocean_front.jpg
-rainy_sidewalk.jpg
-red_leaves.jpg
-snowy_cabin.jpg
-snowy_mountains.jpg
-wave.jpg
-wood_panels.jpg
+Currently, only one theme is available. The Lumina Theme Engine, which uses these themes, is still under development. More themes are planned to be added once theme integration in Lumina is complete.
+
+Port files and [Jenkins](https://jenkins.io/) integrations are stored in **port-files**.
+
+These image files in the **lumina-nature** directory have a [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) license:
+
+```
+bokeh.jpg            forest_river.jpg    mountain_sky.jpg    snowy_cabin.jpg
+clouds.jpg           lemon_water.jpg     ocean_front.jpg     snowy_mountains.jpg
+forest_lake.jpg      mountain_range.jpg  rainy_sidewalk.jpg  wave.jpg
+forest_railroad.jpg  mountain_river.jpg  red_leaves.jpg      wood_panels.jpg
+```
 
 **Project Information: Table of Contents**
 
