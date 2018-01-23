@@ -4,8 +4,6 @@ This repository houses Lumina theme directories. The individual themes are store
 
 Image License information can be found in Licenses sub-directory.
 
-Currently, only one theme is available. The Lumina Theme Engine, which uses these themes, is still under development. More themes are planned to be added once theme integration in Lumina is complete.
-
 Port files and [Jenkins](https://jenkins.io/) integrations are stored in **port-files**.
 
 
