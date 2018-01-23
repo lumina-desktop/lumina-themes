@@ -6,8 +6,12 @@ Image License information can be found in Licenses sub-directory.
 
 Port files and [Jenkins](https://jenkins.io/) integrations are stored in **port-files**.
 
+**Tutorials and Walkthroughs:**
+ * [How to submit a wallpaper to Lumina themes](https://github.com/trueos/guides/tree/master/lumina-themes-submissions)
 
-**Project Information: Table of Contents**
+---
+
+## **General Project Information: Table of Contents**
 
 - [General TrueOS Information](#gentrosinfo)
 	- [TrueOS Project Documentation](#docs)
