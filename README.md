@@ -7,7 +7,7 @@ Image License information can be found in Licenses sub-directory.
 Port files and [Jenkins](https://jenkins.io/) integrations are stored in **port-files**.
 
 **Tutorials and Walkthroughs:**
- * [How to submit a wallpaper to Lumina themes](https://github.com/lumina-desktop/lumina-themes/submission_guide.md)
+ * [How to submit a wallpaper to Lumina themes](https://github.com/lumina-desktop/lumina-themes/blob/master/submission_guide.md)
 
 ---
 
